@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -54,7 +55,7 @@ Joining
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Bond Strength ([PDF]({{< baseurl >}}/resources/33703))
+Bond Strength ({{% resource_link 15d1ad7e-daf8-a60b-e7ad-51059c1875aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Bond Strength ([PDF]({{< baseurl >}}/resources/33703))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Thermal Diffusivity ([PDF]({{< baseurl >}}/resources/33704))
+Thermal Diffusivity ({{% resource_link 269cd56a-8622-f7ff-f119-040dea55e1c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ Thermal Diffusivity ([PDF]({{< baseurl >}}/resources/33704))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Forge Welding ([PDF]({{< baseurl >}}/resources/33705))
+Forge Welding ({{% resource_link 6fd0647e-a5db-4659-0857-dd4c7bebcdad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Forge Welding ([PDF]({{< baseurl >}}/resources/33705))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Cold Welding ([PDF]({{< baseurl >}}/resources/33706))
+Cold Welding ({{% resource_link 944a00e7-da68-00ae-b8cd-0d7470b6fe34 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ Cold Welding ([PDF]({{< baseurl >}}/resources/33706))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Adhesive Bonding ([PDF]({{< baseurl >}}/resources/33707))
+Adhesive Bonding ({{% resource_link 058777e3-33c4-3dcd-d2ab-4faec95745b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Adhesive Bonding ([PDF]({{< baseurl >}}/resources/33707))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Surface Preparation ([PDF]({{< baseurl >}}/resources/33708))
+Surface Preparation ({{% resource_link 1f455ced-c783-7bb4-390f-13e61e2c94b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ Surface Preparation ([PDF]({{< baseurl >}}/resources/33708))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Examples of Adhesive Types ([PDF]({{< baseurl >}}/resources/33709))
+Examples of Adhesive Types ({{% resource_link 739229f5-0d3a-7886-0763-dc8b8e89d6cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Examples of Adhesive Types ([PDF]({{< baseurl >}}/resources/33709))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion Bonding ([PDF]({{< baseurl >}}/resources/33710))
+Diffusion Bonding ({{% resource_link f255bb61-cea1-5ab4-723c-ebf2ebc1c4ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ Diffusion Bonding ([PDF]({{< baseurl >}}/resources/33710))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion Bonding ([PDF]({{< baseurl >}}/resources/33711))
+Diffusion Bonding ({{% resource_link f13cf01d-77e4-2e54-4225-6372e67f1be5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +136,7 @@ Diffusion Bonding ([PDF]({{< baseurl >}}/resources/33711))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Soldering ([PDF]({{< baseurl >}}/resources/33712))
+Soldering ({{% resource_link 856a5404-37fa-0d5a-ca63-90ad371e9707 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +145,7 @@ Soldering ([PDF]({{< baseurl >}}/resources/33712))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Flux ([PDF]({{< baseurl >}}/resources/33713))
+Flux ({{% resource_link 9ba79d4c-38da-4a09-a9a2-d7c408a9b03f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +154,7 @@ Flux ([PDF]({{< baseurl >}}/resources/33713))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Brazing ([PDF]({{< baseurl >}}/resources/33714))
+Brazing ({{% resource_link e06b8a71-a40c-3435-75f4-23528d44fa92 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +163,7 @@ Brazing ([PDF]({{< baseurl >}}/resources/33714))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-More Power ([PDF]({{< baseurl >}}/resources/33715))
+More Power ({{% resource_link c5b4fb49-0643-fa0f-2262-ac5d86cb4c80 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +172,7 @@ More Power ([PDF]({{< baseurl >}}/resources/33715))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Heat Intensity ([PDF]({{< baseurl >}}/resources/33716))
+Heat Intensity ({{% resource_link ff6788a8-847d-6659-4cf3-cb823906b6cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +181,7 @@ Heat Intensity ([PDF]({{< baseurl >}}/resources/33716))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Flames ([PDF]({{< baseurl >}}/resources/33717))
+Flames ({{% resource_link d79e6b2b-8c72-8afe-5440-f59fb2bab32c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +190,7 @@ Flames ([PDF]({{< baseurl >}}/resources/33717))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Flame Cutting ([PDF]({{< baseurl >}}/resources/33718))
+Flame Cutting ({{% resource_link 36cc99d3-6663-3b17-d392-4c4ae34be753 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +199,7 @@ Flame Cutting ([PDF]({{< baseurl >}}/resources/33718))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Plasmas and Properties of Plasmas ([PDF]({{< baseurl >}}/resources/33719))
+Plasmas and Properties of Plasmas ({{% resource_link 96f7c903-d41a-2bc7-af46-0f5744ca4f60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +208,7 @@ Plasmas and Properties of Plasmas ([PDF]({{< baseurl >}}/resources/33719))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Shielding Gases and Arc Ignition ([PDF]({{< baseurl >}}/resources/33720))
+Shielding Gases and Arc Ignition ({{% resource_link 614c3e49-671f-8c7b-b563-4c412568c485 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
